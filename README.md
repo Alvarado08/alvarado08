@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jorge Alvarado
 ======================================================================================================================================
 
-Developer passionate about technology, seeking new challenges and bringing ideas to life to make people's life easier through code
+Web Developer passionate about technology, seeking new challenges and bringing ideas to life to make people's life easier through code
 
 * 🚀  I'm currently working on [Salsas Lonchi Ventas](http://salsas-lonchi-ventas.netlify.app)
 * 🧠  I'm learning JavaScript through #100DaysofCode
@@ -20,7 +20,6 @@ Developer passionate about technology, seeking new challenges and bringing ideas
 <a href="https://www.yiiframework.com/" target="_blank" rel="noreferrer"><img alt="Wordpress" width="36px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-plain.svg" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.wordpress.com" target="_blank" rel="noreferrer"><img alt="Wordpress" width="36px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
