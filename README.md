@@ -3,8 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Web Developer passionate about technology, seeking new challenges and bringing ideas to life to make people's life easier through code
 
-* 🚀  I'm currently working on [Salsas Lonchi Ventas](http://salsas-lonchi-ventas.netlify.app)
-* 🧠  I'm learning JavaScript through #100DaysofCode
+* 🚀  I'm currently working on [SIKTE E-Commerce Site]()
+* 🧠  I'm learning Laravel through #100DaysofCode
 * ⚡  I love mexican and chinese food
 
 ### Skills
@@ -17,8 +17,10 @@ Web Developer passionate about technology, seeking new challenges and bringing i
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.yiiframework.com/" target="_blank" rel="noreferrer"><img alt="Wordpress" width="36px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-plain.svg" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
+<a href="https://www.yiiframework.com/" target="_blank" rel="noreferrer"><img alt="Yii2" width="36px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-plain.svg" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="36" height="36" alt="SqLite" /></a>
 <a href="https://www.wordpress.com" target="_blank" rel="noreferrer"><img alt="Wordpress" width="36px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
