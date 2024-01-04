@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jorge Alvarado
 ======================================================================================================================================
 
-Web Developer passionate about technology, seeking new challenges and bringing ideas to life to make people's life easier through code
+Web Developer passionate about technology, seeking new challenges and bringing ideas to life
 
-* 🚀  I'm currently working on [SIKTE E-Commerce Site]()
-* 🧠  I'm learning Laravel through #100DaysofCode
+* 🚀  I'm currently working on landing my first job
+* 🧠  I'm solidifying my JavaScript knowledge through #100DaysofCode
 * ⚡  I love mexican and chinese food
 
 ### Skills
