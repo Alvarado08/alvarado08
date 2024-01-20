@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Web Developer passionate about technology, seeking new challenges and bringing ideas to life
 
-* 🚀  I'm currently working on landing my first job
+* 🚀  I'm currently working on v3 Portfolio
 * 🧠  I'm solidifying my JavaScript knowledge through #100DaysofCode
 * ⚡  I love mexican and chinese food
 
