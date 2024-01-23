@@ -33,5 +33,6 @@ Web Developer passionate about technology, seeking new challenges and bringing i
 ### Badges
 
 <b>My GitHub Stats</b>
-
 ![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvarado08&theme=bear&show_icons=true&hide=prs,issues,contribs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarado08&layout=compact)
