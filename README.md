@@ -3,7 +3,7 @@ Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 Web Developer passionate about technology, seeking new challenges and bringing ideas to life
 
-* 🚀  I'm working on Weather App
+* 🚀  I'm working on leveling up algorithmic problem solving skills
 * 🧠  I'm learning TypeScript
 * ⚡  I love mexican and chinese food
 
