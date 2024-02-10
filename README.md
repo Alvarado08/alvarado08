@@ -5,7 +5,7 @@ Since discovering the power of harnessing code, I've enjoyed building and leavin
 
 I enjoy working on the web side of things. I find myself more immersed in the design and Front-End, but hooking everything together with the Back-End is just something out of this world. PHP has been my server side bud to make this possible.
 
-I would definitely love to get involved in other areas of code! I'm currently focused in **Web Development**.  
+I love getting involved in other areas of code! Currently, I'm focused in **Web Development**.  
 
 
 * 🚀  I'm working on leveling up my problem solving skills 
