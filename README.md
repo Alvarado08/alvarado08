@@ -5,7 +5,7 @@ Ever since discovering the power of code, I've enjoyed building and leaving an i
 
 I find myself more immersed on the Front-End with JavaScript, but hooking everything together with the Back-End is just something out of this world. PHP has been my server side bud to make this possible.
 
-* 🚀  I'm working on landing my first job 
+* 🚀  I'm working on a CV Builder 
 * 🧠  I'm learning React
 * ⚡  I love mexican and chinese food
 
@@ -18,6 +18,7 @@ I find myself more immersed on the Front-End with JavaScript, but hooking everyt
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 <a href="https://www.yiiframework.com/" target="_blank" rel="noreferrer"><img alt="Yii2" width="36px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-plain.svg" /></a>
