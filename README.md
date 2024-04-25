@@ -1,7 +1,7 @@
 Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jorge Alvarado
 ======================================================================================================================================
 
-Ever since discovering the power of code, I've enjoyed building and leaving an impact through digital experiences that bring real world solutions. The overall feeling of knowing that the world can interact and use my creations is beyond exciting. I'm always looking to learn, improve, take on new challenges and help others in their journey.
+Ever since discovering the power of code, I've enjoyed building and leaving an impact through digital experiences that bring real world solutions. The overall feeling of knowing that the world can interact and use my creations is beyond exciting. I'm always looking to learn, improve, take on new challenges and help others on their journey.
 
 I find myself more immersed on the Front-End with JavaScript, but hooking everything together with the Back-End is just something out of this world. PHP has been my server side bud to make this possible.
 
