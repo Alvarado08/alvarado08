@@ -5,8 +5,8 @@ Ever since discovering the power of code, I've enjoyed building and leaving an i
 
 I find myself more immersed on the Front-End with JavaScript, but hooking everything together with the Back-End is just something out of this world. PHP has been my server side bud to make this possible.
 
-* 🚀  I'm working on a CV Builder 
-* 🧠  I'm learning React
+* 🚀  I'm working on a family dessert bussiness system
+* 🧠  I'm learning Laravel
 * ⚡  I love mexican and chinese food
 
 ### Skills
