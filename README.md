@@ -5,8 +5,8 @@ Ever since discovering the power of code, I've enjoyed building and leaving an i
 
 I find myself more immersed on the Front-End with JavaScript, but hooking everything together with the Back-End is just something out of this world. PHP has been my server side bud to make this possible.
 
-* 🚀  I'm working on [Chingu](https://github.com/chingu-voyages/v50-tier2-team-14) Voyage 50 project
-* 🧠  I'm learning React
+* 🚀  I'm working on [Chingu](https://github.com/chingu-voyages/voyage-project-tier3-expensesplitter) Voyage 51 Tier 3 Expense Splitter project
+* 🧠  I'm learning Next.js and Laravel
 * ⚡  I love mexican and chinese food
 
 ### Skills
