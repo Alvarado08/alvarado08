@@ -3,7 +3,7 @@ Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 Ever since discovering the power of code, I've enjoyed building and leaving an impact through digital experiences that bring real world solutions. The overall feeling of knowing that the world can interact and use my creations is beyond exciting. I'm always looking to learn, improve, take on new challenges and help others on their journey.
 
-I find myself more immersed on the Front-End with JavaScript, but hooking everything together with the Back-End is just something out of this world. PHP has been my server side bud to make this possible.
+I find myself primarily immersed on the Front-End with JavaScript, while integrating everything on the Back-End with PHP.
 
 * 🚀  I'm working on Chingu Voyage 51 Tier 3 [Expense Splitter](https://github.com/chingu-voyages/voyage-project-tier3-expensesplitter) project
 * 🧠  I'm learning Next.js
