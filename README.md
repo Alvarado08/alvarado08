@@ -34,8 +34,9 @@ I find myself primarily immersed on the Front-End with JavaScript and React, whi
 <p align="left"> <a href="https://www.github.com/alvarado08" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/th3ja" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://www.jalvarado.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/jorgep-alvarado" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Github Stats
+### GitHub Stats
 
-![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvarado08&theme=bear&show_icons=true&hide=prs,issues,contribs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarado08&layout=compact)
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=alvarado08&theme=bear&show_icons=true&hide=prs,issues,contribs" alt="Jorge's GitHub stats" style="padding-right:50px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarado08&layout=compact" alt="Top Langs" />
+</div>
