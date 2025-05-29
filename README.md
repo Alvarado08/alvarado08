@@ -6,7 +6,7 @@ Ever since discovering the power of code, I've enjoyed building and leaving an i
 I find myself primarily immersed on the Front-End with JavaScript and React, while integrating everything on the Back-End with PHP.
 
 * 🚀  I'm working on Chingu Voyage 54 Tier 3 [Animal World App](https://github.com/chingu-voyages/V54-tier3-team-36) project
-* 🧠  I'm learning Next.js
+* 🧠  I'm learning Laravel
 * ⚡  I love mexican and chinese food
 
 ### Skills
