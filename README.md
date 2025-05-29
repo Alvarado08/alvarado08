@@ -36,7 +36,8 @@ I find myself primarily immersed on the Front-End with JavaScript and React, whi
 
 ### GitHub Stats
 
-<div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=alvarado08&theme=bear&show_icons=true&hide=prs,issues,contribs" alt="Jorge's GitHub stats" style="padding-right:50px;" />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=alvarado08&theme=bear&show_icons=true&hide=prs,issues,contribs" alt="Jorge's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarado08&layout=compact" alt="Top Langs" />
 </div>
+
