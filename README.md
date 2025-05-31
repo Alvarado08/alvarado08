@@ -1,7 +1,7 @@
 Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jorge Alvarado
 ======================================================================================================================================
 
-Ever since discovering the power of code, I've enjoyed building and leaving an impact through digital experiences that bring real world solutions. The overall feeling of knowing that the world can interact and use my creations is beyond exciting. I'm always looking to learn, improve, take on new challenges and help others on their journey.
+Ever since I discovered coding, I’ve been passionate about creating digital experiences that make a real-world impact. I thrive on turning ideas into solutions people can use and benefit from. Whether building, learning, or helping others, I’m driven by growth, curiosity, and the chance to contribute to something meaningful.
 
 * 🚀  I'm working on Chingu Voyage 54 Tier 3 [Animal World App](https://github.com/chingu-voyages/V54-tier3-team-36) project
 * 🧠  I'm learning Python
