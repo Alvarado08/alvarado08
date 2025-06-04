@@ -43,6 +43,7 @@ Ever since I discovered coding, I’ve been passionate about creating digital ex
     <h4>Tools</h4>
     <a href="https://www.wordpress.com" target="_blank" rel="noreferrer"><img alt="Wordpress" width="36px" height="36px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" /></a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+    <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/Jest.svg" width="36" height="36" alt="Jest" /></a>
   </div>
 
 </section>
