@@ -1,7 +1,7 @@
 Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jorge Alvarado
 ======================================================================================================================================
 
-Ever since I discovered coding, I’ve been passionate about creating digital experiences that make a real-world impact. I turn ideas into solutions people can use and benefit from. Whether building, learning, or helping others, I’m driven by growth, curiosity, and the chance to contribute to something meaningful.
+Ever since I discovered coding, I’ve been passionate about creating digital experiences that make a real-world impact. I turn ideas into solutions people can use and benefit from. I'm passionate about building, learning, helping others and contributing to something meaningful.
 
 * 🚀  I'm working on [Chingu Demographics App](https://github.com/chingu-voyages/V58-tier3-team-39)
 * 🧠  I'm learning Flutter
