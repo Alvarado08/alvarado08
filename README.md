@@ -3,7 +3,7 @@ Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 Ever since I discovered coding, I’ve been passionate about creating digital experiences that make a real-world impact. I turn ideas into solutions people can use and benefit from. I'm passionate about building, learning, helping others and contributing to something meaningful.
 
-* 🚀  I'm working on [Chingu Demographics App](https://github.com/chingu-voyages/V58-tier3-team-39)
+* 🚀  I'm working on [Chingu Interview Practice App](https://github.com/chingu-voyages/V59-tier3-team-39)
 * 🧠  I'm learning Flutter
 * ⚡  I love mexican and chinese food
 
